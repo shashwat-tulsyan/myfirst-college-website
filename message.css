@@ -1,0 +1,109 @@
+body{
+
+	  background-image:url("qwe.jpg");
+	  background-size:cover;  
+
+}
+
+#title1
+{
+	font-family:Monotype Corsiva; 
+	font-size:55px; 
+	text-align:center;   
+}
+
+#Home{
+	color:black;      
+	font-family:Rockwell;
+	float:left;
+	width:86px;
+	height:20px; 
+	line-height:30px;   
+	font-size:22px; 
+}
+
+#fac{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#Courses{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#Gallary{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#message{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:130px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#h2{
+	font-size:40px;
+	text-align:center;  
+	line-height:50px; 
+	color:black;
+	font-family:Forte;
+}
+
+#Chairman{
+	font-family:Georgia 
+}
+
+#vice{
+	font-family:Georgia 
+}
+
+#principal{
+	font-family:Georgia 
+}
+
+#Registrar{
+	font-family:Georgia 
+
+}
+
+p1{
+	font-size:21px; 
+}
+
+p2{
+	font-size:19px; 
+}
+
+p3{
+	font-size:17px; 
+}
+
+p4{
+	font-size:22px; 
+}
+
+p5{
+	font-size:23px;
+
+}

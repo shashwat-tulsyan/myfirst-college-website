@@ -1,0 +1,201 @@
+body{
+
+background-image:url("images/white-background-geo-shapes.jpg");
+
+}
+
+#title1
+{
+	font-family:Monotype Corsiva; 
+	font-size:55px; 
+	text-align:center;   
+}
+
+#Home{
+	color:black;      
+	font-family:Rockwell;
+	float:left;
+	width:86px;
+	height:20px; 
+	line-height:30px;   
+	font-size:22px; 
+}
+
+#fac{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#Courses{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#Gallary{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#message{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:130px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#h2{
+	font-size:40px;
+	text-align:center;  
+	line-height:50px; 
+	font-family:Forte;
+	
+}
+
+#bba{
+
+ margin-left:395px; 
+}
+
+#bba1{
+
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center;
+color:#993300;   
+}
+
+#BCA{
+	 
+margin-left:395px; 
+}
+
+#bca1{
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center;
+color:#000099;  
+}
+
+#bsc{
+margin-left:395px; 
+
+}
+
+#bsc1{
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center; 
+
+}
+
+#bcom{
+ margin-left:395px; 
+
+}
+
+#bcom1{
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center;
+color:#666699;  
+
+}
+
+#home{
+ margin-left:395px; 
+
+}
+
+#home1{
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center;
+color: #b30000;  
+
+}
+
+#mass{
+ margin-left:395px; 
+
+}
+
+#mass1{
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center; 
+
+}
+
+#bfa{
+	
+ margin-left:395px; 
+
+}
+
+#bfa1{
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center;
+color: #996600;  
+
+
+}
+
+#bed{
+	
+ margin-left:395px; 
+
+}
+
+#bed1{
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center;
+color:#009900;  
+
+}
+
+#btc{
+ margin-left:395px; 
+
+}
+
+#btc1{
+	font-family:Comic Sans MS; 
+font-size:17px;
+	text-align:center; 
+
+}
+
+#mba{
+ margin-left:395px; 
+
+}
+
+#mba1{
+font-family:Comic Sans MS; 
+font-size:17px;
+text-align:center;
+color:#003300;  
+
+}
+
+

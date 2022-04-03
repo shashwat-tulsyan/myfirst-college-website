@@ -1,0 +1,249 @@
+body{
+
+background-image:url("images/download12.jpg");
+
+}
+
+#title1
+{
+	font-family:Monotype Corsiva; 
+	font-size:55px; 
+	text-align:center;   
+}
+
+#title{
+	text-align:center; 
+}
+
+#mgkvp{
+	text-align:center;
+	color:blue;  
+}
+
+#Home{
+	color:black;      
+	font-family:Rockwell;
+	float:left;
+	width:86px;
+	height:20px; 
+	line-height:30px;   
+	font-size:22px; 
+}
+
+#fac{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#Courses{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#Gallary{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#message{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:130px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#faculty{
+
+font-family:Forte;
+text-align:center;
+font-size:40px;   
+}
+
+#commerce{
+	line-height:50px; 
+	font-family:Comic Sans MS;
+	font-size:30px; 
+	text-align:center;
+	   
+}
+
+#A{
+	font-size:22px; 
+	font-family:Imprint MT Shadow; 
+
+}
+
+p{
+color:#ff3300; 
+font-family:Centaur; 
+font-size:25px; 	
+}
+
+
+p1{
+	font-family:Centaur;
+	color:blue;
+	font-size:25px;  
+}
+
+p2{
+	color:red;
+	font-family:Centaur;
+	font-style:bold; 
+	font-size:25px;  
+}
+
+p3{
+	color:darkgreen;  
+    font-family:Centaur;
+	font-size:25px;  
+}
+
+p4{
+	color: brown; 
+    font-family:Centaur;
+	font-size:25px;  
+}
+
+p5{
+	color:#999900; 
+    font-family:Centaur;
+	font-size:25px;  
+}
+
+p6{
+	color:#ff9900; 
+    font-family:Centaur;
+	font-size:25px;  
+}
+
+p7{
+	color:#663300; 
+    font-family:Centaur;
+	font-size:25px;  
+}
+
+p8{
+	color:blue; 
+    font-family:Centaur;
+	font-size:25px;  
+}
+
+p9{
+	color:black; 
+    font-family:Centaur;
+	font-size:25px;  
+}
+
+p10{
+	color:#B8860B; 
+	font-family:Centaur;
+	font-size:25px;  
+}
+
+p11{
+	color:#B22222; 
+    font-family:Centaur;
+	font-size:25px;  
+}
+
+
+#Management{
+font-family:Comic Sans MS;
+font-size:30px;  
+text-align:center; 
+line-height:90px; 
+}
+
+#computer{
+	 
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+
+#Library{
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+
+#Computing{
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+
+#hostel{
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+#open{
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+#sports{
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+
+#food{
+text-align:center;  
+line-height:90px;
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+#banking{
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+#medical{
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}
+
+#transport{
+text-align:center;  
+line-height:90px; 
+font-family:Comic Sans MS;
+font-size:30px;  
+}

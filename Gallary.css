@@ -1,0 +1,75 @@
+body{
+	background-image:url("images/paper_star_background.jpg");
+
+}
+
+
+#gallary1{
+	font-family:Forte;  
+	height:50px;
+	font-size:25px; 
+    line-height:30px;
+    font-size:40px;
+    text-align:center;  
+ }
+
+#table1{
+  	margin:auto;  
+ }  
+
+#title1
+{
+	font-family:Monotype Corsiva; 
+	font-size:55px; 
+	text-align:center;   
+}
+
+#Home{
+	color:black;      
+	font-family:Rockwell;
+	float:left;
+	width:86px;
+	height:20px; 
+	line-height:30px;   
+	font-size:22px; 
+}
+
+#fac{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#Courses{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#Gallary{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:118px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
+
+#message{
+	color:black; 
+	font-family:Rockwell; 
+	float:left; 
+	width:130px;
+	height:20px;
+	line-height:30px;
+	font-size:22px;   
+}
